@@ -1,4 +1,6 @@
 # card-credit-default-predection
+![image](https://user-images.githubusercontent.com/98402439/204303852-9f8808c1-26cd-4685-9132-be713aae075b.png)
+
 
 ## Problem Discription 
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. We can use the K-S chart to evaluate which customers will default on their credit card payments.
@@ -106,3 +108,16 @@ Both cases have negative impact on the bank, since false positives leads to unsa
 From above table we can see that XGBoost Classifier having Recall, F1-score, and ROC Score values equals 82%, 77%, and 86% and Random forest Classifier having Recall, F1-score, and ROC Score values equals 81%, 75%, and 84%.
 
 XGBoost Classifier and Decision Tree Classifier are giving us the best Recall, F1-score, and ROC Score among other algorithms. We can conclude that these two algorithms are the best to predict whether the credit card is default or not default according to our analysis.
+
+## References
+Credit Card Default Prediction by Stephen Oriyomi (medium)
+
+https://medium.com/@oriyomistephen/credit-card-default-prediction-8c9e0601c30e
+
+Credit Card Lead Prediction – Complete project using LGBM Classification model(Analytics Vidya)
+
+https://www.analyticsvidhya.com/blog/2021/10/credit-card-lead-prediction-complete-project-using-lgbm-classification-model/
+
+Credit Card Default Prediction(Youtube)
+
+https://www.youtube.com/watch?v=kn5hVBR40eo
