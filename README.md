@@ -26,6 +26,8 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 * X6 - X11: History of past payment. We tracked the past monthly payment records (from April to September, 2005) as follows: X6 = the repayment status in September, * * 2005; X7 = the repayment status in August, 2005; . . .;X11 = the repayment status in April, 2005. The measurement scale for the repayment status is: -1 = pay duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above.
 * X12-X17: Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005.
 
+## Dataset
+https://drive.google.com/file/d/1RY_Cbt-RnbgWmn7mpP7wGZ4fNNFuMxa2/view?usp=sharing
 ## Steps Involved :
 
 The following steps are involved in the project
