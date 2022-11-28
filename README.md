@@ -112,12 +112,12 @@ XGBoost Classifier and Decision Tree Classifier are giving us the best Recall, F
 ## References
 Credit Card Default Prediction by Stephen Oriyomi (medium)
 
-https://medium.com/@oriyomistephen/credit-card-default-prediction-8c9e0601c30e
+Available : https://medium.com/@oriyomistephen/credit-card-default-prediction-8c9e0601c30e
 
 Credit Card Lead Prediction – Complete project using LGBM Classification model(Analytics Vidya)
 
-https://www.analyticsvidhya.com/blog/2021/10/credit-card-lead-prediction-complete-project-using-lgbm-classification-model/
+Available : https://www.analyticsvidhya.com/blog/2021/10/credit-card-lead-prediction-complete-project-using-lgbm-classification-model/
 
 Credit Card Default Prediction(Youtube)
 
-https://www.youtube.com/watch?v=kn5hVBR40eo
+Available : https://www.youtube.com/watch?v=kn5hVBR40eo
